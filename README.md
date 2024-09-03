@@ -15,9 +15,9 @@ bash <(curl -s https://raw.githubusercontent.com/Yan-Store/bahancptero/main/inst
   - thema stellar
   - thema billing
   - thema enigma
-  - uninstall thema\n
+  - uninstall thema 
 2.Install Panel Ptero :
-  - Memudahkan Anda membuat Panel!\n
+  - Memudahkan Anda membuat Panel! 
 3.Install Node/Wings Panel Kamu :
   - Memudahkan anda Menginstall node tanpa gagal
 
