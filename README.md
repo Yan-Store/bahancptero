@@ -1,27 +1,25 @@
-# :bird: pterodactyl-auto-installer
+# :biohazard:CMD PTERODACTYL MULTI FUNGSI
 
 
+## Cmd Resmi Dijual Oleh Yanz Store!!
 
-## AUTO INSTALLER SCRIPT
-
-Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
+Gunakan script di bawah untuk menginstall thema/panel/node/wings dengan sekali copy paste saja.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Yan-Store/pterodactyl-auto-installer/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Yan-Store/bahancptero/main/install.sh)
 ```
 
-## Features
+## Features Cmd Ini!
 
-- thema stellar
-- thema billing
-- thema enigma
-- uninstall thema
-
-## TOKEN LOGIN
-
-COPY TOKEN DIBAWAH INI !!
-
-```Yanzstore                    ```
+1.Install Theme :
+  - thema stellar
+  - thema billing
+  - thema enigma
+  - uninstall thema
+2.Install Panel Ptero :
+  - Memudahkan Anda membuat Panel!
+3.Install Node/Wings Panel Kamu :
+  - Memudahkan anda Menginstall node tanpa gagal
 
 ### system support
 
@@ -35,7 +33,7 @@ COPY TOKEN DIBAWAH INI !!
 
 _\* di atas adalah os yang Yanz test, selebihnya bisa di test sendiri._
 
-## Contributors ✨
+## Creator ✨
 
 Copyright (C) 2023 - 2024, YanzStore, @Yanzstore_offc.
 
