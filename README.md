@@ -9,17 +9,13 @@ Gunakan script di bawah untuk menginstall thema/panel/node/wings dengan sekali c
 bash <(curl -s https://raw.githubusercontent.com/Yan-Store/bahancptero/main/install.sh)
 ```
 
-## Features Cmd Ini!
+## TOKEN CMD
+  - UNTUK TOKEN KAMU BISA MEMBELI DI [YANZ STORE](https://wa.me/6288228895081), (Klik)
+## Features Unggulan Cmd Ini!
 
-1.Install Theme :
-  - thema stellar
-  - thema billing
-  - thema enigma
-  - uninstall thema 
-2.Install Panel Ptero :
-  - Memudahkan Anda membuat Panel! 
-3.Install Node/Wings Panel Kamu :
-  - Memudahkan anda Menginstall node tanpa gagal
+  - Memungkinkan Anda Menginstall/Memasang Theme Di Panel Kamu
+  - Menginstall Panel Pterodactyl
+  - Dan Juga Menginstal/Memasang Noode Panel Kamu
 
 ### system support
 
@@ -35,6 +31,6 @@ _\* di atas adalah os yang Yanz test, selebihnya bisa di test sendiri._
 
 ## Creator ✨
 
-Copyright (C) 2023 - 2024, YanzStore, @Yanzstore_offc.
+Copyright (C) 2023 - 2024, YanzStore, [@Yanzstore_offc](https://wa.me/6288228895081).
 
 - Created by [ YANZOFFC ](https://github.com/Yan-Store)
