@@ -6,7 +6,7 @@
 Gunakan script di bawah untuk menginstall thema/panel/node/wings dengan sekali copy paste saja.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Yan-Store/bahancptero/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/YanzOffc/bahancptero/main/install.sh)
 ```
 
 ## TOKEN CMD
